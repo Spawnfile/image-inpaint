@@ -7,17 +7,16 @@ Changing Dresses via Prompting
 ---
 ### Clothes Segmentation Example Input - Output
 
-<img src="images/person.jfif" align="left" height="250" width="250">
-<img src="images/cloth_seg_output.jfif" align="right" height="250" width="250">
+<img src="images/person.jfif" alt="Input" width="300" height="200">
 
-
+<img src="images/cloth_seg_output.png" alt="Output" width="300" height="200">
 
 ---
 ### ControlNet Example Input - Output
 
-![alt text](images/controlnet_input_image.png){:height="36px" width="36px"}
+![alt text](images/controlnet_input_image.png)
 
-![alt text](images/output.png){:height="36px" width="36px"}
+![alt text](images/output.png)
 
 ---
 ## To Do's
