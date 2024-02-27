@@ -2,7 +2,7 @@
 Changing Dresses via Prompting
 
 ## Project Pipeline
-![alt text](image.png)
+![alt text](images/image.png)
 
 ---
 ### Clothes Segmentation Example Input - Output
@@ -31,7 +31,7 @@ Changing Dresses via Prompting
 ### UI & UX
 - [ ] Web UI Design
 - [ ] Mobile UI design (optional)
-- libraries and languages (maybe) are not clear right now
+- libraries and languages (maybe) are not certain right now
 
 ### Optimization
 - [ ] Model inference time optimization
