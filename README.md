@@ -14,6 +14,8 @@ Changing Dresses via Prompting
 ---
 ### ControlNet Example Input - Output
 
+- prompt -> `a handsome man with ray-ban sunglasses`
+
 ![alt text](images/controlnet_input_image.png)
 
 ![alt text](images/output.png)
