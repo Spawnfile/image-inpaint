@@ -9,7 +9,7 @@ Changing Dresses via Prompting
 
 <img src="images/person.jfif" alt="Input" width="300" height="200">
 
-<img src="images/cloth_seg_output.png" alt="Output" width="300" height="200">
+<img src="images/cloth_seg_output.png" alt="Output" width="300" height="200" align="right">
 
 ---
 ### ControlNet Example Input - Output
