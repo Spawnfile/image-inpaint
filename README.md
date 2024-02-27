@@ -7,8 +7,9 @@ Changing Dresses via Prompting
 ---
 ### Clothes Segmentation Example Input - Output
 
-<img src="images/person.jfif" align="left" height="48" width="48">
-<img src="images/cloth_seg_output.jfif" align="right" height="48" width="48">
+<img src="images/person.jfif" align="left" height="250" width="250">
+<img src="images/cloth_seg_output.jfif" align="right" height="250" width="250">
+
 
 
 ---
